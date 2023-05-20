@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #E1DCC7 !important;
+}
+.navbar li{
+        margin-right: 40px;
+}
+
+.navbar-brand img {
+    height: 200px;
+    width: 200px !important;
+}
+
+/* Appartment Section */
+.appartment-section {
+    background-color: #f8f9fa;
+}
+
+.appartment-section h1 {
+    font-family: 'Georgia', serif; /* Change this to the font you prefer */
+    color: black; /* Change this to the color you prefer */
+}
+
+.logo-img {
+    max-width: 40%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    border-radius: 100%;
+}
+
+
+.reservation-button{
+margin-top:40px;
+}
+
+.descriptif{
+    text-align:justify;
+}
+
+.carousel {
+
+    margin: auto;
+}
+.card-img-top{
+    width:50px;
+    margin:auto;
+    margin-top:20px;
+}
